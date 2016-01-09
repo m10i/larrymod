@@ -34,4 +34,9 @@
         color: transparent;
         text-shadow: none;
         font-size: 0em;
+        vertical-align: top;
+}
+
+span.dropbutton {
+        vertical-align: top;
 }
